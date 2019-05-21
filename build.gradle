@@ -54,3 +54,7 @@ jar {
 
 mainClassName = 'com.example.Target'
 
+task wrapper(type: Wrapper) {
+    gradleVersion = '4.4.1'
+}
+
