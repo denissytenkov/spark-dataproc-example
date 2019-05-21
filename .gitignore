@@ -1,0 +1,4 @@
+build/
+venvs/
+.gradle/
+.idea/
